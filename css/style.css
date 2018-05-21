@@ -23,7 +23,7 @@ body {
   position: relative;
   background-color: #ffffff;
   background-image: url("../img/cover.jpg");
-  background-size:100% 80%;
+  background-size: 100% 80%;
   width: 550px;
   height: 375px;
   border-radius: 10px;
@@ -85,6 +85,11 @@ body {
 .player-info li:nth-child(3) {
   font-size: .9em;
 }
+
+.info-two li {
+  text-align: right;
+}
+
 .player .info-two {
   left: auto;
   right: 4.5%;
